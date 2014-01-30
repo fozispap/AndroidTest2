@@ -13,6 +13,7 @@ public class TestGit2 extends Activity {
 		setContentView(R.layout.main);
 		Log.d("filter", "example text");
 		Log.d("filter2", "example text");
+		Log.d("filter3", "example text");
 	}
 
 	@Override
